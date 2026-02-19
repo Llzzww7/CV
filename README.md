@@ -3,4 +3,4 @@ Este proyecto es un servidor web desarrollado con JavaScript utilizando Node.js,
 
 La aplicación muestra información sobre mí.
 
-Mi web : https://b7te-n0d3.github.io/CV/
+Mi web : https://fll77.github.io/CV/
